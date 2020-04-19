@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DaggerBasicSample</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="main_hello_world_button_text">Hello World</string>
+    <string name="account_username_hint">Username</string>
+    <string name="account_password_hint">Password</string>
+</resources>
